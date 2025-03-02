@@ -93,3 +93,7 @@ Emoji Support: Improve the chat experience with emoji reactions.
 Conclusion
 
 This Real-Time Chat Application serves as a foundational project for anyone interested in learning about real-time communication using WebSockets. With Vue.js powering the frontend and Node.js with Socket.io handling the backend, this app ensures a smooth and engaging user experience. Contributions and feature suggestions are always welcome!
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/71ce924f-5418-4e66-ac53-0128a44bd0da)
